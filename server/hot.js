@@ -1,0 +1,1 @@
+exports.hotValue = 5;
